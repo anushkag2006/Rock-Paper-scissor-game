@@ -5,8 +5,7 @@ Dive into the classic Rock Paper Scissors game! This simple yet addictive game a
 
 ## Gameplay
 - **Choose Your Move**: Select Rock, Paper, or Scissors.
-- **Competitive Modes**:
-  - **Player vs. Player**: Challenge a friend to see who comes out on top.
+- **Competitive Mode**:
   - **Player vs. AI**: Go against a computer opponent for practice.
 
 ## Features
