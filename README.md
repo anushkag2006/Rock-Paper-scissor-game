@@ -19,6 +19,5 @@ Dive into the classic Rock Paper Scissors game! This simple yet addictive game a
 2. Select your choice: Rock, Paper, or Scissors.
 3. See the results displayed instantly and enjoy the game!
 
-## Contributing
-We welcome contributions! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
+
 
